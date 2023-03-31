@@ -6,7 +6,7 @@
 using namespace std;
 
 int main() {
-  int marks1,marks2;
+  float marks1,marks2;
   float average;
   
   cout<<"Input marks of subject 1 : ";
